@@ -2,21 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/00.basic/web/index.php" afterPath="$PROJECT_DIR$/00.basic/web/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01.hello/web/index.php" afterPath="$PROJECT_DIR$/01.hello/web/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puppet/modules/apache/.fixtures.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puppet/modules/apache/.gemfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puppet/modules/apache/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puppet/modules/apache/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puppet/modules/apache/Modulefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puppet/modules/apache/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puppet/modules/apache/Rakefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puppet/modules/apache/manifests/dotconf.pp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puppet/modules/apache/manifests/htpasswd.pp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puppet/modules/apache/manifests/init.pp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puppet/modules/apache/manifests/module.pp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puppet/modules/apache/manifests/params.pp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puppet/modules/apache/manifests/passenger.pp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puppet/modules/apache/manifests/ports.pp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puppet/modules/apache/manifests/redhat.pp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puppet/modules/apache/manifests/spec.pp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puppet/modules/apache/manifests/ssl.pp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puppet/modules/apache/manifests/vhost.pp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puppet/modules/apache/manifests/virtualhost.pp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puppet/modules/apache/spec/classes/apache_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puppet/modules/apache/spec/defines/apache_virtualhost_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puppet/modules/apache/spec/spec_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puppet/modules/apache/templates/00-NameVirtualHost.conf.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puppet/modules/apache/templates/module/proxy.conf.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puppet/modules/apache/templates/spec.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puppet/modules/apache/templates/virtualhost/vhost.conf.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puppet/modules/apache/templates/virtualhost/virtualhost.conf.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/index.php" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.php" afterPath="$PROJECT_DIR$/app/app.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/puppet/manifests/default.pp" afterPath="$PROJECT_DIR$/puppet/manifests/default.pp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ws2-sws-fiddles-silex.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1372788660422" ignored="false" />
     <file path="$PROJECT_DIR$/../McCaffreyWoodworking/puppet/manifests/default.pp" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1372741390578" ignored="false" />
-    <file path="/default.pp" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1372862814480" ignored="false" />
+    <file path="/default.pp" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1372956960859" ignored="false" />
     <file path="$PROJECT_DIR$/../McCaffreyWoodworking/Vagrantfile" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1372740684135" ignored="false" />
     <file path="/Vagrantfile" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1372790375268" ignored="false" />
     <file path="/a.php" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1372741290988" ignored="false" />
     <file path="/.profile" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1372746145523" ignored="false" />
     <file path="/index.php" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1372874201427" ignored="false" />
-    <file path="/.htaccess" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1372870729644" ignored="false" />
+    <file path="/.htaccess" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1372904563259" ignored="false" />
     <file path="/vhost.pp" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1372876101302" ignored="false" />
+    <file path="/app.php" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1372895406712" ignored="false" />
+    <file path="/vhost.conf.erb" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1372909653549" ignored="false" />
+    <file path="/init.pp" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1372956478937" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,55 +71,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="default.pp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/puppet/manifests/default.pp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="14" selection-start="858" selection-end="858" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Vagrantfile" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Vagrantfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="37" selection-start="754" selection-end="754" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".htaccess" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/.htaccess">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="16" selection-start="126" selection-end="126" vertical-scroll-proportion="0.07672634">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".htaccess" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01.hello/web/.htaccess">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/index.php">
+        <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="17" selection-start="166" selection-end="166" vertical-scroll-proportion="-2.5">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/bootstrap.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="7" column="11" selection-start="238" selection-end="238" vertical-scroll-proportion="-4.375">
               <folding />
             </state>
           </provider>
@@ -93,7 +83,52 @@
       <file leaf-file-name="app.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/app.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="6" selection-start="933" selection-end="933" vertical-scroll-proportion="-16.25">
+            <state line="24" column="2" selection-start="821" selection-end="821" vertical-scroll-proportion="-15.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.pp" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/puppet/manifests/default.pp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="45" column="0" selection-start="825" selection-end="825" vertical-scroll-proportion="0.67391306">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module.pp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/puppet/modules/php/manifests/module.pp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="init.pp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/puppet/modules/apache/manifests/init.pp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vhost.pp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/puppet/modules/apache/manifests/vhost.pp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="333" column="4" selection-start="10234" selection-end="10234" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".htaccess" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="57" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -121,11 +156,16 @@
         <option value="$PROJECT_DIR$/00.basic/web/index.php" />
         <option value="$PROJECT_DIR$/Vagrantfile" />
         <option value="$PROJECT_DIR$/01.hello/web/index.php" />
-        <option value="$PROJECT_DIR$/puppet/manifests/default.pp" />
         <option value="$PROJECT_DIR$/web/index.php" />
-        <option value="$PROJECT_DIR$/puppet/modules/apache/manifests/vhost.pp" />
         <option value="$PROJECT_DIR$/01.hello/web/.htaccess" />
         <option value="$PROJECT_DIR$/web/.htaccess" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/app/app.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/puppet/modules/apache/manifests/vhost.pp" />
+        <option value="$PROJECT_DIR$/puppet/modules/apache/templates/virtualhost/vhost.conf.erb" />
+        <option value="$PROJECT_DIR$/puppet/manifests/default.pp" />
+        <option value="$PROJECT_DIR$/puppet/modules/xdebug/manifests/init.pp" />
       </list>
     </option>
   </component>
@@ -143,8 +183,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="38" />
-    <option name="y" value="22" />
+    <option name="x" value="82" />
+    <option name="y" value="58" />
     <option name="width" value="1497" />
     <option name="height" value="930" />
   </component>
@@ -202,7 +242,151 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
+              <option name="myItemId" value="puppet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ws2-sws-fiddles-silex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ws2-sws-fiddles-silex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="puppet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ws2-sws-fiddles-silex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ws2-sws-fiddles-silex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="puppet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manifests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ws2-sws-fiddles-silex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ws2-sws-fiddles-silex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="puppet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apache" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ws2-sws-fiddles-silex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ws2-sws-fiddles-silex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="puppet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apache" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manifests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ws2-sws-fiddles-silex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ws2-sws-fiddles-silex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="puppet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apache" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ws2-sws-fiddles-silex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ws2-sws-fiddles-silex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="puppet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manifests" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -278,14 +462,27 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/puppet/modules/apache" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/puppet" />
       <recent name="$PROJECT_DIR$/puppet/modules/php/manifests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/puppet/modules/apache" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/web" />
     </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
+      <JSRemoteDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSRemoteDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
@@ -320,14 +517,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="38" y="22" width="1497" height="930" extended-state="0" />
-    <editor active="true" />
+    <frame x="82" y="58" width="1497" height="930" extended-state="0" />
+    <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25223982" sideWeight="0.6" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25223982" sideWeight="0.6" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962963" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -408,84 +606,77 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/00.basic/app/app.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="11" selection-start="238" selection-end="238" vertical-scroll-proportion="-4.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="2" selection-start="821" selection-end="821" vertical-scroll-proportion="-15.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/00.basic/app/bootstrap.php">
+    <entry file="file://$PROJECT_DIR$/puppet/modules/xdebug/manifests/config.pp">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01.hello/vendor/silex/silex/src/Silex/Application.php">
+    <entry file="file://$PROJECT_DIR$/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="483" column="0" selection-start="16281" selection-end="16281" vertical-scroll-proportion="0.6009501">
+        <state line="3" column="57" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01.hello/app/app.php">
+    <entry file="file://$PROJECT_DIR$/puppet/modules/apache/CHANGELOG">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="180" selection-end="180" vertical-scroll-proportion="0.21377672">
+        <state line="37" column="46" selection-start="1618" selection-end="1618" vertical-scroll-proportion="0.70971864">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01.hello/app/bootstrap.php">
+    <entry file="file://$PROJECT_DIR$/puppet/modules/apache/manifests/php.pp">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01.hello/web/index.php">
+    <entry file="file://$PROJECT_DIR$/puppet/modules/xdebug/manifests/init.pp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="264" selection-end="264" vertical-scroll-proportion="0.17281106">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01.hello/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="66" selection-start="525" selection-end="525" vertical-scroll-proportion="0.25842696">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/puppet/manifests/default.pp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="14" selection-start="858" selection-end="858" vertical-scroll-proportion="0.0">
+        <state line="5" column="0" selection-start="138" selection-end="138" vertical-scroll-proportion="0.09590793">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Vagrantfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="37" selection-start="754" selection-end="754" vertical-scroll-proportion="0.0">
+        <state line="13" column="126" selection-start="451" selection-end="574" vertical-scroll-proportion="0.24936062">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/bootstrap.php">
+    <entry file="file://$PROJECT_DIR$/puppet/modules/apache/manifests/mod/php.pp">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="17" selection-start="166" selection-end="166" vertical-scroll-proportion="-2.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/puppet/modules/apache/README.md">
+    <entry file="file://$PROJECT_DIR$/puppet/modules/apache/manifests/init.pp">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -494,28 +685,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/puppet/modules/apache/manifests/vhost.pp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="47" selection-start="1109" selection-end="1109" vertical-scroll-proportion="0.23017903">
+        <state line="333" column="4" selection-start="10234" selection-end="10234" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.php">
+    <entry file="file://$PROJECT_DIR$/puppet/modules/php/manifests/module.pp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="6" selection-start="933" selection-end="933" vertical-scroll-proportion="-16.25">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01.hello/web/.htaccess">
+    <entry file="file://$PROJECT_DIR$/puppet/modules/apache/files/httpd">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/.htaccess">
+    <entry file="file://$PROJECT_DIR$/puppet/manifests/default.pp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="16" selection-start="126" selection-end="126" vertical-scroll-proportion="0.07672634">
+        <state line="45" column="0" selection-start="825" selection-end="825" vertical-scroll-proportion="0.67391306">
           <folding />
         </state>
       </provider>

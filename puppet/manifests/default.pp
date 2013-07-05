@@ -24,23 +24,18 @@ class { 'git' :
     gui => false,
 }
 
-class { 'apache' :
-    require => Apt::Ppa['ppa:ondrej/php5'],
-}
+class { 'apache' : }
 
-apache::dotconf { 'custom' :
-    content => 'EnableSendfile Off',
-}
-
-apache::module { 'rewrite' : }
+apache::mod { 'rewrite' : }
 
 apache::vhost { 'marion' :
-    server_name   => 'marion.dev',
+    servername   => 'marion.dev',
     serveraliases => ['www.marion.dev',],
     docroot       => '/var/www/silex/web',
     port          => '80',
-	env_variables => { 'APP_ENV' => 'dev' },
-    priority      => '1'
+	setenv		  => { 'APP_ENV' => 'dev' },
+    priority      => '1',
+	override	  => ['All']
 }
 
 class { 'php' :
@@ -79,11 +74,11 @@ php::ini { 'default' :
     target   => 'error_reporting.ini'
 }
 
-class { 'xdebug' : }
+#class { 'xdebug' : }
 
-xdebug::config { 'cgi' : }
-xdebug::config { 'cli' : }
+#xdebug::config { 'cgi' : }
+#xdebug::config { 'cli' : }
 
-class { 'mysql' :
-    root_password => $mysql_root_password,
-}
+#class { 'mysql' :
+#    root_password => $mysql_root_password,
+#}

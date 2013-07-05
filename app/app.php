@@ -14,11 +14,14 @@ $app->error(function (\Exception $e, $code) {
 
 // Basic Routing
 $app->get('/', function(Silex\Application $app) {
+	var_dump($app);
+	var_dump($app['request']->getBaseUrl());
 	return $app->redirect($app['request']->getBaseUrl() . '/hello');
 });
 
 // Dynamic Routing: Catch requests to /hello/{name} - @see http://silex.sensiolabs.org/doc/usage.html#dynamic-routing
 $app->get('/hello/{name}', function(Silex\Application $app, $name) {
+	var_dump($app, $name);
 	return 'Hello ' . $app->escape($name) . '!';
 });
 
