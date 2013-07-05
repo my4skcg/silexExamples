@@ -34,6 +34,12 @@ apache::dotconf { 'custom' :
 
 apache::module { 'rewrite' : }
 
+apache::vhost { 'default':
+  docroot             => '/var/www',
+  server_name         => 'www.default.com',
+  priority            => '',
+}
+
 apache::vhost { 'marion' :
     server_name   => 'marion.dev',
     serveraliases => ['www.marion.dev',],

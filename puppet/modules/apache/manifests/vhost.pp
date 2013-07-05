@@ -128,11 +128,7 @@ define apache::vhost (
   $directory_allow_override      = 'None'
 )
 {
-  notify {"In vhost.pp" : }
-  notify {"env_variables = ${env_variables}" : }
-  notify {"directory = ${directory}" : }
-  notify {"directory_allow_override = ${directory_allow_override}" : }
-  notice("In vhost.pp")
+  #notify {"env_variables = ${env_variables}" : }
   $ensure                            = bool2ensure($enable)
   $bool_docroot_create               = any2bool($docroot_create)
   $bool_passenger                    = any2bool($passenger)
@@ -172,7 +168,6 @@ define apache::vhost (
   } else {
     $config_file_path = "${apache::vdir}/${name}"
   }
-notify {"config_file_path = ${config_file_path}" : }
 
   # Config file enable path
   if $priority != '' {
@@ -182,7 +177,6 @@ notify {"config_file_path = ${config_file_path}" : }
   } else {
     $config_file_enable_path = "${apache::config_dir}/sites-enabled/000-${name}"
   }
-	notify {"config_file_enable_path = ${config_file_enable_path}" : }
 
   include apache
 

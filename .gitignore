@@ -1,4 +1,6 @@
 .DS_Store
+.vagrant
+.ignore
 vendor
 composer.lock
 *.psd
