@@ -38,8 +38,10 @@ apache::vhost { 'marion' :
     server_name   => 'marion.dev',
     serveraliases => ['www.marion.dev',],
     docroot       => '/var/www/silex/web',
+	directory     => '/var/www/silex/web',
+	directory_allow_override   => 'All',
     port          => '80',
-	env_variables => { 'APP_ENV' => 'dev' },
+	env_variables => ['APP_ENV dev'],
     priority      => '1'
 }
 
