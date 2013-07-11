@@ -2,27 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/app.php" afterPath="$PROJECT_DIR$/02.olleh/app/app.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/bootstrap.php" afterPath="$PROJECT_DIR$/02.olleh/app/bootstrap.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/.htaccess" afterPath="$PROJECT_DIR$/02.olleh/web/.htaccess" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/index.php" afterPath="$PROJECT_DIR$/02.olleh/web/index.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/composer.json" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/phpinfo.php" afterPath="$PROJECT_DIR$/web/phpinfo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/06.doctrine/app/bootstrap.php" afterPath="$PROJECT_DIR$/06.doctrine/app/bootstrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/puppet/manifests/default.pp" afterPath="$PROJECT_DIR$/puppet/manifests/default.pp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ws2-sws-fiddles-silex.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1372983306778" ignored="false" />
-    <file path="$PROJECT_DIR$/../McCaffreyWoodworking/puppet/manifests/default.pp" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1372741390578" ignored="false" />
-    <file path="/default.pp" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373069668171" ignored="false" />
+    <file path="/Dummy.txt" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373381704258" ignored="false" />
+    <file path="$PROJECT_DIR$/../McCaffreyWoodworking/puppet/manifests/default.pp" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373232511093" ignored="false" />
+    <file path="/default.pp" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373232511093" ignored="false" />
     <file path="$PROJECT_DIR$/../McCaffreyWoodworking/Vagrantfile" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1372740684135" ignored="false" />
     <file path="/Vagrantfile" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1372991179467" ignored="false" />
-    <file path="/a.php" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1372741290988" ignored="false" />
+    <file path="/a.php" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373464181383" ignored="false" />
     <file path="/.profile" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1372746145523" ignored="false" />
-    <file path="/index.php" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1372874201427" ignored="false" />
+    <file path="/index.php" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373553349062" ignored="false" />
     <file path="/.htaccess" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1372870729644" ignored="false" />
     <file path="/vhost.pp" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373067376576" ignored="false" />
     <file path="/virtualhost.conf.erb" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1372983925997" ignored="false" />
     <file path="/vhostAllowOverride.conf.erb" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1372987988783" ignored="false" />
     <file path="/hello.php" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373030667705" ignored="false" />
-    <file path="/.gitignore" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373045423875" ignored="false" />
+    <file path="/.gitignore" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373555240143" ignored="false" />
+    <file path="$PROJECT_DIR$/../McCaffreyWoodworking/notes.txt" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373118812982" ignored="false" />
+    <file path="/notes.txt" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373118812982" ignored="false" />
+    <file path="/a.feature" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373119162596" ignored="false" />
+    <file path="/a.html" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373119171259" ignored="false" />
+    <file path="/a.js" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373119172958" ignored="false" />
+    <file path="/a.less" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373119177884" ignored="false" />
+    <file path="/a.pp" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373119204900" ignored="false" />
+    <file path="/a.sql" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373119213491" ignored="false" />
+    <file path="/a.twig" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373311509165" ignored="false" />
+    <file path="/a.xml" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373119218695" ignored="false" />
+    <file path="$PROJECT_DIR$/../McCaffreyWoodworking/header.php" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373388989661" ignored="false" />
+    <file path="$PROJECT_DIR$/../McCaffreyWoodworking/web/index.php" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373553349062" ignored="false" />
+    <file path="$PROJECT_DIR$/../McCaffreyWoodworking/app/app.php" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373554241776" ignored="false" />
+    <file path="$PROJECT_DIR$/../McCaffreyWoodworking/.htaccess" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373128341912" ignored="false" />
+    <file path="$PROJECT_DIR$/../McCaffreyWoodworking/index.php" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373128496094" ignored="false" />
+    <file path="/composer.json" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373387399031" ignored="false" />
+    <file path="/bootstrap.php" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373555513705" ignored="false" />
+    <file path="$PROJECT_DIR$/../McCaffreyWoodworking/composer.json" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373387455749" ignored="false" />
+    <file path="$PROJECT_DIR$/../McCaffreyWoodworking/app/bootstrap.php" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373555661773" ignored="false" />
+    <file path="/app.php" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373554214904" ignored="false" />
+    <file path="$PROJECT_DIR$/../McCaffreyWoodworking/web/header.php" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373557733062" ignored="false" />
+    <file path="$PROJECT_DIR$/../McCaffreyWoodworking/app/views/errors/404.twig" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373478216491" ignored="false" />
+    <file path="/404.twig" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373478216491" ignored="false" />
+    <file path="$PROJECT_DIR$/../McCaffreyWoodworking/app/controllers/IndexController.php" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373487809117" ignored="false" />
+    <file path="/IndexController.php" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373488182950" ignored="false" />
+    <file path="/a.dummy" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373556149686" ignored="false" />
+    <file path="$PROJECT_DIR$/../McCaffreyWoodworking/app/controllers/indexController.php" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373488339830" ignored="false" />
+    <file path="$PROJECT_DIR$/../McCaffreyWoodworking/vendor/composer/autoload_real.php" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373554016296" ignored="false" />
+    <file path="/autoload_real.php" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373553852542" ignored="false" />
+    <file path="$PROJECT_DIR$/../McCaffreyWoodworking/src/controllers/indexController.php" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373558377803" ignored="false" />
+    <file path="/indexController.php" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373558354709" ignored="false" />
+    <file path="$PROJECT_DIR$/../McCaffreyWoodworking/.gitignore" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373555241680" ignored="false" />
+    <file path="/header.php" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373557653639" ignored="false" />
+    <file path="$PROJECT_DIR$/../McCaffreyWoodworking/logs/monolog.log" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373558407282" ignored="false" />
+    <file path="$PROJECT_DIR$/../McCaffreyWoodworking/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/EventListener/RouterListener.php" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373558091209" ignored="false" />
+    <file path="/RouterListener.php" changelist="f5b5a440-d5cd-4e28-b13a-2c92dabc6391" time="1373558026161" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,19 +79,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="default.pp" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/puppet/manifests/default.pp">
+      <file leaf-file-name="bootstrap.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/bootstrap.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="25" selection-start="1232" selection-end="1232" vertical-scroll-proportion="0.6505102">
+            <state line="22" column="0" selection-start="711" selection-end="711" vertical-scroll-proportion="0.44295302">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="app.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02.olleh/app/app.php">
+        <entry file="file://$PROJECT_DIR$/app/app.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="16" column="15" selection-start="537" selection-end="537" vertical-scroll-proportion="-10.0">
               <folding />
             </state>
           </provider>
@@ -78,19 +115,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/.profile" />
-        <option value="$PROJECT_DIR$/00.basic/web/index.php" />
-        <option value="$PROJECT_DIR$/01.hello/web/index.php" />
-        <option value="$PROJECT_DIR$/01.hello/web/.htaccess" />
         <option value="$PROJECT_DIR$/web/.htaccess" />
         <option value="$PROJECT_DIR$/puppet/modules/apache/templates/virtualhost/virtualhost.conf.erb" />
         <option value="$PROJECT_DIR$/puppet/modules/apache/templates/virtualhost/vhostAllowOverride.conf.erb" />
         <option value="$PROJECT_DIR$/app/hello.php" />
-        <option value="$PROJECT_DIR$/web/index.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/puppet/modules/apache/manifests/vhost.pp" />
         <option value="$PROJECT_DIR$/Vagrantfile" />
+        <option value="$PROJECT_DIR$/web/index.php" />
+        <option value="$PROJECT_DIR$/src/Ikdoeict/Provider/Controller/TweetsController.php" />
+        <option value="$PROJECT_DIR$/app/app.php" />
+        <option value="$PROJECT_DIR$/src/views/layout.twig" />
+        <option value="$PROJECT_DIR$/web/css/screen.css" />
         <option value="$PROJECT_DIR$/puppet/manifests/default.pp" />
+        <option value="$PROJECT_DIR$/app/bootstrap.php" />
+        <option value="$PROJECT_DIR$/06.doctrine/app/bootstrap.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
       </list>
     </option>
   </component>
@@ -108,9 +148,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="34" />
-    <option name="y" value="25" />
-    <option name="width" value="1497" />
+    <option name="x" value="12" />
+    <option name="y" value="52" />
+    <option name="width" value="1133" />
     <option name="height" value="930" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -139,6 +179,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -159,14 +200,14 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.lastSelected" value="editor.preferences.smartKeys" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
@@ -183,16 +224,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app" />
-      <recent name="$PROJECT_DIR$/puppet/modules/apache" />
-      <recent name="$PROJECT_DIR$/puppet/modules/apache/templates/virtualhost" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/puppet" />
+      <recent name="$PROJECT_DIR$/web" />
+      <recent name="$PROJECT_DIR$/src/views" />
+      <recent name="$PROJECT_DIR$/src/Ikdoeict/Provider/Controller" />
+      <recent name="$PROJECT_DIR$/resources" />
+      <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web" />
       <recent name="$PROJECT_DIR$/02.olleh" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/web" />
     </key>
   </component>
   <component name="RunManager">
@@ -205,7 +246,7 @@
     </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
       <JSRemoteDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSRemoteDebuggerConfigurationSettings>
       <method />
@@ -242,14 +283,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="34" y="25" width="1497" height="930" extended-state="0" />
+    <frame x="12" y="52" width="1133" height="930" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25568575" sideWeight="0.6" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17847286" sideWeight="0.6" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962963" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -330,58 +371,60 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/puppet/modules/apache/templates/module/proxy.conf.erb">
+    <entry file="file://$PROJECT_DIR$/04.tweets-organized/web/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="11" selection-start="458" selection-end="458" vertical-scroll-proportion="0.2244898">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.static-pages/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="6" selection-start="25" selection-end="25" vertical-scroll-proportion="0.038265307">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/puppet/modules/apache/templates/virtualhost/vhost.conf.erb">
+    <entry file="file://$PROJECT_DIR$/08.static-pages/web/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/puppet/modules/apache/manifests/params.pp">
+    <entry file="file://$PROJECT_DIR$/08.static-pages/web/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/puppet/modules/apache/manifests/passenger.pp">
+    <entry file="file://$PROJECT_DIR$/08.static-pages/app/app.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="27" column="15" selection-start="834" selection-end="834" vertical-scroll-proportion="0.5510204">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/puppet/modules/apache/README.md">
+    <entry file="file://$PROJECT_DIR$/04.tweets-organized/app/app.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="10" selection-start="1642" selection-end="1642" vertical-scroll-proportion="0.0">
+        <state line="21" column="18" selection-start="576" selection-end="576" vertical-scroll-proportion="0.41556728">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/puppet/modules/apache/manifests/init.pp">
+    <entry file="file://$PROJECT_DIR$/04.tweets-organized/src/Ikdoeict/Provider/Controller/TweetsController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="49" column="0" selection-start="1593" selection-end="1593" vertical-scroll-proportion="0.8791946">
+          <folding>
+            <element signature="e#48#70#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/puppet/modules/apache/manifests/vhost.pp">
+    <entry file="file://$PROJECT_DIR$/04.tweets-organized/app/bootstrap.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="127" column="40" selection-start="3658" selection-end="3658" vertical-scroll-proportion="2.429847">
+        <state line="9" column="8" selection-start="248" selection-end="248" vertical-scroll-proportion="0.18120806">
           <folding />
         </state>
       </provider>
@@ -393,30 +436,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/00.basic/web/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02.olleh/README.md">
+    <entry file="file://$PROJECT_DIR$/02.olleh/app/app.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02.olleh/app/bootstrap.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Vagrantfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="769" selection-end="769" vertical-scroll-proportion="0.4017857">
+        <state line="25" column="11" selection-start="1015" selection-end="1015" vertical-scroll-proportion="-15.625">
           <folding />
         </state>
       </provider>
@@ -428,16 +457,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02.olleh/app/app.php">
+    <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/puppet/manifests/default.pp">
+    <entry file="file://$PROJECT_DIR$/app/app.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="25" selection-start="1232" selection-end="1232" vertical-scroll-proportion="0.6505102">
+        <state line="16" column="15" selection-start="537" selection-end="537" vertical-scroll-proportion="-10.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="711" selection-end="711" vertical-scroll-proportion="0.44295302">
           <folding />
         </state>
       </provider>

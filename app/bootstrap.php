@@ -16,16 +16,7 @@ $app->register(new Silex\Provider\TwigServiceProvider(), array(
 
 // Use Doctrine — @note: Be sure to install Doctrine via Composer first!
 $app->register(new Silex\Provider\DoctrineServiceProvider(), array(
-    'db.options' => array(
-        'driver'   => 'pdo_sqlite',
-        'path'     => __DIR__ .  DIRECTORY_SEPARATOR . '..' . DIRECTORY_SEPARATOR . 'app.db',
-    )
-));
-
-/* using mySQL and the database silex
-$app->register(new Silex\Provider\DoctrineServiceProvider(), array(
 	'db.options' => array(
 	'dbname'     => 'silex',
 	)
 ));
-*/

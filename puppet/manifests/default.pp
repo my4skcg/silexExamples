@@ -37,18 +37,18 @@ apache::module { 'rewrite' : }
 apache::vhost { 'default':
   docroot             => '/var/www',
   server_name         => 'www.default.com',
-  priority            => '',
+  priority            => '';
 }
 
 apache::vhost { 'marion' :
-    server_name   => 'marion.dev',
-    serveraliases => ['www.marion.dev',],
-    docroot       => '/var/www/silex/web',
+  server_name   => 'marion.dev',
+  serveraliases => ['www.marion.dev',],
+  docroot       => '/var/www/silex/web',
 	directory     => '/var/www/silex/web',
 	directory_allow_override   => 'All',
-    port          => '80',
+  port          => '80',
 	env_variables => ['APP_ENV dev'],
-    priority      => '1'
+  priority      => '1'
 }
 
 class { 'php' :
@@ -94,4 +94,13 @@ xdebug::config { 'cli' : }
 
 class { 'mysql' :
     root_password => $mysql_root_password,
+}
+
+mysql::grant { 'McCaffreyWoodworking':
+	mysql_privileges     => 'ALL',
+	mysql_db             => 'McCaffreyWoodworking',
+	mysql_user           => 'mwwadmin',
+	mysql_password       => 'mwwadmin',
+	mysql_host           => 'localhost',
+#  mysql_grant_filepath => '/home/vagrant/puppet-mysql',
 }
